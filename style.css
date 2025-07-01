@@ -1,0 +1,158 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 0 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+#card {
+    margin: 20px auto;
+    width: 90vw;
+    max-width: 400px;
+    height: 140px;
+    background-color: #ffffff;
+    border: 2px solid #3498db;
+    border-radius: 12px;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #040404;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.3s;
+}
+
+#card.flipped {
+    background-color: #3498db;
+    color: white;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 14px 22px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 8px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.playAndNextBtn {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.lockButtons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 1rem;
+}
+
+#sentenceSection {
+    margin-top: 30px;
+}
+
+.sentence-pair {
+    margin-bottom: 16px;
+}
+
+.thai-sentence {
+    font-size: 28px;
+    margin: 0;
+    cursor: pointer;
+    user-select: none;
+}
+
+.cn-sentence {
+    margin: 4px 0 14px 16px;
+    color: #555;
+    font-size: 18px;
+}
+
+.thai-sentence span {
+    color: red;
+    font-weight: bold;
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    #card {
+        font-size: 4rem;
+        height: 160px;
+    }
+
+    .thai-sentence {
+        font-size: 32px;
+    }
+
+    .cn-sentence {
+        font-size: 20px;
+        margin-left: 12px;
+    }
+
+    button {
+        font-size: 20px;
+        padding: 16px 24px;
+    }
+}
+
+.lockBtn {
+    padding: 6px 10px;
+    font-size: 14px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+/* 分別設顏色 */
+.lock30 {
+    background-color: #a52202;
+    /* 藍色 */
+}
+
+.lock100 {
+    background-color: #e67e22;
+    /* 橘色 */
+}
+
+.lock1000 {
+    background-color: #066e00;
+    /* 紅色 */
+}
+
+.lockBtn:hover {
+    opacity: 0.85;
+}
+
+#resetBtn {
+    background-color: #7f8c8d;
+    /* 灰色 */
+    font-size: 14px;
+    padding: 6px 10px;
+}

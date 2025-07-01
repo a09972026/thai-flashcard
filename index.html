@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Thai Flashcard</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Thai Flashcard Practice</h1>
+
+    <div id="card">–</div>
+
+    <div class="playAndNextBtn">
+        <button id="playBtn">🔊 Play Thai</button>
+    </div>
+
+    <div class="lockButtons">
+        <button data-lock="30" class="lockBtn lock30">🔒 Hard (30)</button>
+        <button data-lock="100" class="lockBtn lock100">🔒 Normal (100)</button>
+        <button data-lock="1000" class="lockBtn lock1000">🔒 Easy (1000)</button>
+        <button id="resetBtn">♻️ Reset</button>
+    </div>
+
+    <p id="progress">Word 0 of 0 | Learned: 0</p>
+
+    <hr>
+
+    <div id="sentenceSection">
+        <h3>📚 Dialogue</h3>
+        <ul id="sentenceList"></ul>
+    </div>
+
+    <script src="quiz.js"></script>
+</body>
+
+</html>
