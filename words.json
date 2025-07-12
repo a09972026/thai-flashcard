@@ -106,5 +106,245 @@
             "How much money do you have?",
             "I don't have time."
         ]
+    },
+    {
+        "thai": "วันจันทร์",
+        "meaning": "Monday",
+        "thaiSentences": [
+            "วันจันทร์ฉันทำงาน",
+            "วันนี้เป็นวันจันทร์"
+        ],
+        "cnSentences": [
+            "I work on Monday.",
+            "Today is Monday."
+        ]
+    },
+    {
+        "thai": "วันอังคาร",
+        "meaning": "Tuesday",
+        "thaiSentences": [
+            "เราจะไปโรงเรียนวันอังคาร",
+            "วันอังคารเป็นวันที่สองของสัปดาห์"
+        ],
+        "cnSentences": [
+            "We go to school on Tuesday.",
+            "Tuesday is the second day of the week."
+        ]
+    },
+    {
+        "thai": "วันพุธ",
+        "meaning": "Wednesday",
+        "thaiSentences": [
+            "วันพุธฉันมีประชุม",
+            "เจอกันวันพุธนะ"
+        ],
+        "cnSentences": [
+            "I have a meeting on Wednesday.",
+            "See you on Wednesday."
+        ]
+    },
+    {
+        "thai": "วันพฤหัสบดี",
+        "meaning": "Thursday",
+        "thaiSentences": [
+            "วันพฤหัสบดีมีเรียนพิเศษ",
+            "ฉันจะไปตลาดวันพฤหัสบดี"
+        ],
+        "cnSentences": [
+            "There's an extra class on Thursday.",
+            "I will go to the market on Thursday."
+        ]
+    },
+    {
+        "thai": "วันศุกร์",
+        "meaning": "Friday",
+        "thaiSentences": [
+            "วันศุกร์เป็นวันสุดท้ายของการทำงาน",
+            "สุขสันต์วันศุกร์!"
+        ],
+        "cnSentences": [
+            "Friday is the last day of work.",
+            "Happy Friday!"
+        ]
+    },
+    {
+        "thai": "วันเสาร์",
+        "meaning": "Saturday",
+        "thaiSentences": [
+            "วันเสาร์ฉันจะไปเที่ยว",
+            "สุดสัปดาห์วันเสาร์"
+        ],
+        "cnSentences": [
+            "I will go traveling on Saturday.",
+            "Saturday is the weekend."
+        ]
+    },
+    {
+        "thai": "วันอาทิตย์",
+        "meaning": "Sunday",
+        "thaiSentences": [
+            "วันอาทิตย์ฉันพักผ่อนที่บ้าน",
+            "วันอาทิตย์เป็นวันหยุด"
+        ],
+        "cnSentences": [
+            "I rest at home on Sunday.",
+            "Sunday is a holiday."
+        ]
+    },
+    {
+        "thai": "สีแดง",
+        "meaning": "red",
+        "thaiSentences": [
+            "เสื้อตัวนี้สีแดง",
+            "ฉันชอบสีแดง"
+        ],
+        "cnSentences": [
+            "This shirt is red.",
+            "I like red."
+        ]
+    },
+    {
+        "thai": "สีน้ำเงิน",
+        "meaning": "blue",
+        "thaiSentences": [
+            "ท้องฟ้าสีน้ำเงิน",
+            "ปากกาสีน้ำเงินอยู่ที่ไหน?"
+        ],
+        "cnSentences": [
+            "The sky is blue.",
+            "Where is the blue pen?"
+        ]
+    },
+    {
+        "thai": "สีเหลือง",
+        "meaning": "yellow",
+        "thaiSentences": [
+            "ดอกทานตะวันสีเหลือง",
+            "รถแท็กซี่สีเหลือง"
+        ],
+        "cnSentences": [
+            "Sunflowers are yellow.",
+            "Yellow taxi."
+        ]
+    },
+    {
+        "thai": "สีเขียว",
+        "meaning": "green",
+        "thaiSentences": [
+            "ต้นไม้มีสีเขียว",
+            "สัญญาณไฟจราจรสีเขียว"
+        ],
+        "cnSentences": [
+            "Trees are green.",
+            "Green traffic light."
+        ]
+    },
+    {
+        "thai": "สีขาว",
+        "meaning": "white",
+        "thaiSentences": [
+            "เสื้อเชิ้ตสีขาวสะอาด",
+            "เมฆสีขาว"
+        ],
+        "cnSentences": [
+            "Clean white shirt.",
+            "White clouds."
+        ]
+    },
+    {
+        "thai": "สีดำ",
+        "meaning": "black",
+        "thaiSentences": [
+            "รองเท้าสีดำคู่ใหม่",
+            "แมวสีดำกำลังนอนหลับ"
+        ],
+        "cnSentences": [
+            "New black shoes.",
+            "The black cat is sleeping."
+        ]
+    },
+    {
+        "thai": "สีชมพู",
+        "meaning": "pink",
+        "thaiSentences": [
+            "ดอกไม้สีชมพูสวยมาก",
+            "เธอชอบสีชมพู"
+        ],
+        "cnSentences": [
+            "The pink flower is very beautiful.",
+            "She likes pink."
+        ]
+    },
+    {
+        "thai": "สีม่วง",
+        "meaning": "purple",
+        "thaiSentences": [
+            "ชุดเดรสสีม่วง",
+            "ฉันมีปากกาสีม่วง"
+        ],
+        "cnSentences": [
+            "Purple dress.",
+            "I have a purple pen."
+        ]
+    },
+    {
+        "thai": "สีส้ม",
+        "meaning": "orange",
+        "thaiSentences": [
+            "พระอาทิตย์ตกดินเป็นสีส้ม",
+            "ผลส้มมีสีส้ม"
+        ],
+        "cnSentences": [
+            "The sunset is orange.",
+            "Oranges are orange."
+        ]
+    },
+    {
+        "thai": "สีน้ำตาล",
+        "meaning": "brown",
+        "thaiSentences": [
+            "หมีสีน้ำตาลตัวใหญ่",
+            "โต๊ะไม้สีน้ำตาล"
+        ],
+        "cnSentences": [
+            "A big brown bear.",
+            "Brown wooden table."
+        ]
+    },
+    {
+        "thai": "สีเทา",
+        "meaning": "gray",
+        "thaiSentences": [
+            "ท้องฟ้ามีเมฆสีเทา",
+            "เสื้อกันหนาวสีเทา"
+        ],
+        "cnSentences": [
+            "The sky has gray clouds.",
+            "Gray hoodie."
+        ]
+    },
+    {
+        "thai": "สีทอง",
+        "meaning": "gold",
+        "thaiSentences": [
+            "แหวนทองคำสวยงาม",
+            "เหรียญสีทอง"
+        ],
+        "cnSentences": [
+            "Beautiful gold ring.",
+            "Gold coin."
+        ]
+    },
+    {
+        "thai": "สีเงิน",
+        "meaning": "silver",
+        "thaiSentences": [
+            "รถยนต์สีเงิน",
+            "สร้อยคอสีเงิน"
+        ],
+        "cnSentences": [
+            "Silver car.",
+            "Silver necklace."
+        ]
     }
 ]
