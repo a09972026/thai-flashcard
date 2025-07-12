@@ -346,5 +346,161 @@
             "Silver car.",
             "Silver necklace."
         ]
+    },
+    {
+        "thai": "แอปเปิ้ล",
+        "meaning": "apple",
+        "thaiSentences": [
+            "ฉันชอบกินแอปเปิ้ล",
+            "แอปเปิ้ลมีวิตามินสูง"
+        ],
+        "cnSentences": [
+            "I like to eat apples.",
+            "Apples are high in vitamins."
+        ]
+    },
+    {
+        "thai": "กล้วย",
+        "meaning": "banana",
+        "thaiSentences": [
+            "กล้วยอร่อยมาก",
+            "ลิงชอบกินกล้วย"
+        ],
+        "cnSentences": [
+            "Bananas are very delicious.",
+            "Monkeys like to eat bananas."
+        ]
+    },
+    {
+        "thai": "ส้ม",
+        "meaning": "orange",
+        "thaiSentences": [
+            "ส้มมีรสเปรี้ยวอมหวาน",
+            "ฉันดื่มน้ำส้มทุกเช้า"
+        ],
+        "cnSentences": [
+            "Oranges taste sweet and sour.",
+            "I drink orange juice every morning."
+        ]
+    },
+    {
+        "thai": "มะม่วง",
+        "meaning": "mango",
+        "thaiSentences": [
+            "มะม่วงสุกหวานมาก",
+            "ข้าวเหนียวมะม่วงเป็นของหวานที่ชอบ"
+        ],
+        "cnSentences": [
+            "Ripe mangoes are very sweet.",
+            "Mango sticky rice is my favorite dessert."
+        ]
+    },
+    {
+        "thai": "สับปะรด",
+        "meaning": "pineapple",
+        "thaiSentences": [
+            "สับปะรดมีรสชาติเปรี้ยวอมหวาน",
+            "ฉันชอบน้ำสับปะรด"
+        ],
+        "cnSentences": [
+            "Pineapple tastes sweet and sour.",
+            "I like pineapple juice."
+        ]
+    },
+    {
+        "thai": "แตงโม",
+        "meaning": "watermelon",
+        "thaiSentences": [
+            "แตงโมเย็นๆ สดชื่น",
+            "ฤดูร้อนต้องกินแตงโม"
+        ],
+        "cnSentences": [
+            "Cold watermelon is refreshing.",
+            "You must eat watermelon in summer."
+        ]
+    },
+    {
+        "thai": "มะพร้าว",
+        "meaning": "coconut",
+        "thaiSentences": [
+            "น้ำมะพร้าวช่วยดับกระหาย",
+            "มะพร้าวเป็นพืชเขตร้อน"
+        ],
+        "cnSentences": [
+            "Coconut water quenches thirst.",
+            "Coconut is a tropical plant."
+        ]
+    },
+    {
+        "thai": "ฝรั่ง",
+        "meaning": "guava",
+        "thaiSentences": [
+            "ฝรั่งมีวิตามินซีสูง",
+            "ฉันชอบกินฝรั่งจิ้มพริกเกลือ"
+        ],
+        "cnSentences": [
+            "Guava is high in vitamin C.",
+            "I like to eat guava with chili salt."
+        ]
+    },
+    {
+        "thai": "องุ่น",
+        "meaning": "grape",
+        "thaiSentences": [
+            "องุ่นมีทั้งสีเขียวและสีม่วง",
+            "ฉันซื้อองุ่นมาหนึ่งพวง"
+        ],
+        "cnSentences": [
+            "Grapes come in both green and purple.",
+            "I bought a bunch of grapes."
+        ]
+    },
+    {
+        "thai": "มะละกอ",
+        "meaning": "papaya",
+        "thaiSentences": [
+            "มะละกอดิบทำส้มตำได้",
+            "มะละกอสุกมีรสหวาน"
+        ],
+        "cnSentences": [
+            "Unripe papaya can be used to make som tum (papaya salad).",
+            "Ripe papaya tastes sweet."
+        ]
+    },
+    {
+        "thai": "มะเขือเทศ",
+        "meaning": "tomato",
+        "thaiSentences": [
+            "มะเขือเทศใช้ทำส้มตำ",
+            "น้ำมะเขือเทศมีประโยชน์"
+        ],
+        "cnSentences": [
+            "Tomatoes are used to make som tum.",
+            "Tomato juice is beneficial."
+        ]
+    },
+    {
+        "thai": "แตงกวา",
+        "meaning": "cucumber",
+        "thaiSentences": [
+            "แตงกวาช่วยให้สดชื่น",
+            "สลัดแตงกวาอร่อย"
+        ],
+        "cnSentences": [
+            "Cucumber helps refresh.",
+            "Cucumber salad is delicious."
+        ]
+    },
+    {
+        "thai": "เห็ด",
+        "meaning": "mushroom",
+        "thaiSentences": [
+            "เห็ดเป็นแหล่งโปรตีนที่ดี",
+            "ซุปเห็ดอร่อยมาก"
+        ],
+        "cnSentences": [
+            "Mushrooms are a good source of protein.",
+            "Mushroom soup is very delicious."
+        ]
     }
 ]
