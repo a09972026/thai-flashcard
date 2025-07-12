@@ -156,3 +156,15 @@ button:hover {
     font-size: 14px;
     padding: 6px 10px;
 }
+
+.language-switch {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+#switchLangBtn {
+    background-color: #8e44ad;
+    font-size: 16px;
+    padding: 8px 16px;
+}
