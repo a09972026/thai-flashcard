@@ -22,5 +22,53 @@
             "要去哪裡？",
             "我想去旅行。"
         ]
+    },
+    {
+        "jp": "飲む",
+        "meaning": "to drink",
+        "jpSentences": [
+            "コーヒーを飲みますか？",
+            "毎日水を飲みます。"
+        ],
+        "cnSentences": [
+            "你喝咖啡嗎？",
+            "每天喝水。"
+        ]
+    },
+    {
+        "jp": "見る",
+        "meaning": "to see, to watch",
+        "jpSentences": [
+            "映画を見ましょう。",
+            "テレビを見るのが好きです。"
+        ],
+        "cnSentences": [
+            "我們看電影吧。",
+            "我喜歡看電視。"
+        ]
+    },
+    {
+        "jp": "買う",
+        "meaning": "to buy",
+        "jpSentences": [
+            "何を買いますか？",
+            "新しい服を買いたいです。"
+        ],
+        "cnSentences": [
+            "你要買什麼？",
+            "我想買新衣服。"
+        ]
+    },
+    {
+        "jp": "話す",
+        "meaning": "to speak, to talk",
+        "jpSentences": [
+            "日本語を話せますか？",
+            "彼女と話したいです。"
+        ],
+        "cnSentences": [
+            "你會說日語嗎？",
+            "我想和她說話。"
+        ]
     }
 ]
