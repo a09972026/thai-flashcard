@@ -502,5 +502,113 @@
             "Mushrooms are a good source of protein.",
             "Mushroom soup is very delicious."
         ]
+    },
+    {
+        "thai": "สุนัข",
+        "meaning": "dog",
+        "thaiSentences": [
+            "สุนัขเป็นเพื่อนที่ดีที่สุดของมนุษย์",
+            "ฉันเลี้ยงสุนัขที่บ้าน"
+        ],
+        "cnSentences": [
+            "Dogs are human's best friends.",
+            "I keep a dog at home."
+        ]
+    },
+    {
+        "thai": "แมว",
+        "meaning": "cat",
+        "thaiSentences": [
+            "แมวชอบนอนหลับ",
+            "แมวของฉันน่ารักมาก"
+        ],
+        "cnSentences": [
+            "Cats like to sleep.",
+            "My cat is very cute."
+        ]
+    },
+    {
+        "thai": "ช้าง",
+        "meaning": "elephant",
+        "thaiSentences": [
+            "ช้างเป็นสัตว์ประจำชาติของไทย",
+            "ช้างมีงวงยาว"
+        ],
+        "cnSentences": [
+            "Elephants are the national animal of Thailand.",
+            "Elephants have long trunks."
+        ]
+    },
+    {
+        "thai": "ม้า",
+        "meaning": "horse",
+        "thaiSentences": [
+            "ม้าวิ่งเร็วมาก",
+            "ฉันอยากขี่ม้า"
+        ],
+        "cnSentences": [
+            "Horses run very fast.",
+            "I want to ride a horse."
+        ]
+    },
+    {
+        "thai": "วัว",
+        "meaning": "cow",
+        "thaiSentences": [
+            "วัวให้นม",
+            "ฟาร์มนี้มีวัวหลายตัว"
+        ],
+        "cnSentences": [
+            "Cows give milk.",
+            "This farm has many cows."
+        ]
+    },
+    {
+        "thai": "หมู",
+        "meaning": "pig",
+        "thaiSentences": [
+            "หมูชอบคลุกโคลน",
+            "เนื้อหมูใช้ทำอาหารได้หลายอย่าง"
+        ],
+        "cnSentences": [
+            "Pigs like to wallow in mud.",
+            "Pork can be used to make many dishes."
+        ]
+    },
+    {
+        "thai": "ไก่",
+        "meaning": "chicken",
+        "thaiSentences": [
+            "ไก่ขันในตอนเช้า",
+            "ฉันชอบกินไก่ทอด"
+        ],
+        "cnSentences": [
+            "Chickens crow in the morning.",
+            "I like to eat fried chicken."
+        ]
+    },
+    {
+        "thai": "ปลา",
+        "meaning": "fish",
+        "thaiSentences": [
+            "ปลามีชีวิตอยู่ในน้ำ",
+            "ฉันชอบตกปลา"
+        ],
+        "cnSentences": [
+            "Fish live in water.",
+            "I like fishing."
+        ]
+    },
+    {
+        "thai": "นก",
+        "meaning": "bird",
+        "thaiSentences": [
+            "นกบินอยู่บนท้องฟ้า",
+            "ฉันเลี้ยงนกแก้ว"
+        ],
+        "cnSentences": [
+            "Birds fly in the sky.",
+            "I keep a parrot."
+        ]
     }
 ]
